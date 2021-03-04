@@ -1,0 +1,27 @@
+{
+  "name": "@axmit/universal-storage",
+  "version": "1.0.8",
+  "description": "Universal storage interface for mobile and web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --declaration index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itershukov/universal-storage.git"
+  },
+  "author": "itersh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itershukov/universal-storage/issues"
+  },
+  "homepage": "https://github.com/itershukov/universal-storage#readme",
+  "keywords": [
+    "web",
+    "mobile",
+    "storage",
+    "localstorage",
+    "asyncstorage"
+  ]
+}
